@@ -1,0 +1,30 @@
+{
+  "name": "projetoppim1av",
+  "version": "1.0.0",
+  "description": "Projeto exemplo aula ao vivo PPI curso ADS",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rfsgoncalves/ProjetoPPIM1AV.git"
+  },
+  "keywords": [
+    "exemplo",
+    "apredendo",
+    "node",
+    "http"
+  ],
+  "author": "Renato Gonçalves",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rfsgoncalves/ProjetoPPIM1AV/issues"
+  },
+  "homepage": "https://github.com/rfsgoncalves/ProjetoPPIM1AV#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
